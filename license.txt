@@ -1,0 +1,7 @@
+git reset --hard HEAD
+git log
+git diff
+git status
+git reflog
+git log --pretty=oneling
+
